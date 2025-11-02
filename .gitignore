@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Sphinx build output
+docs/build/
+build/
+
+# Ignore backup files
+*.bak
